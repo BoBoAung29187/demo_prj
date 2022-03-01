@@ -1,0 +1,7 @@
+{
+  "name": "git_flow_demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
